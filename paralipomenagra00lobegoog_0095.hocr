@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paralipomenagra00lobegoog_0095.png"; bbox 0 0 2506 4492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 103 991 1006 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 103 991 1006 1130">
+     <span class='ocr_line' id='line_1_1' title="bbox 103 991 1006 1130; baseline 0.001 -24"><span class='ocrx_word' id='word_1_1' title='bbox 103 992 606 1111; x_wconf 84' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 650 991 1006 1130; x_wconf 76' lang='lat' dir='ltr'><strong>SECUNDA,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 35 1343 1104 1864">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 35 1343 1104 1864">
+     <span class='ocr_line' id='line_1_2' title="bbox 64 1343 584 1414; baseline -0.006 -16"><span class='ocrx_word' id='word_1_3' title='bbox 64 1404 80 1414; x_wconf 20' lang='grc' dir='ltr'><strong><em>ἢ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 532 1343 584 1395; x_wconf 72' lang='lat' dir='ltr'><strong>1)ss</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 35 1466 1104 1696; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 35 1466 386 1696; x_wconf 54' lang='grc' dir='ltr'><strong>ιοΜιΝιΒυε</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 440 1615 755 1690; x_wconf 63' lang='lat' dir='ltr'>emen:</span> <span class='ocrx_word' id='word_1_7' title='bbox 805 1598 1104 1693; x_wconf 64' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 129 1781 832 1864; baseline -0.011 2"><span class='ocrx_word' id='word_1_8' title='bbox 129 1781 131 1786; x_wconf 78' lang='grc'>’</span> <span class='ocrx_word' id='word_1_9' title='bbox 278 1784 832 1864; x_wconf 54' lang='grc' dir='ltr'><strong>ΜοΝοεΥιιΑΒιε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 38 2208 911 2350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 38 2208 911 2350">
+     <span class='ocr_line' id='line_1_5' title="bbox 38 2208 911 2350; baseline -0.007 -17"><span class='ocrx_word' id='word_1_10' title='bbox 38 2208 46 2220; x_wconf 19' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_11' title='bbox 206 2263 369 2349; x_wconf 74' lang='lat' dir='ltr'>(PRIMUM</span> <span class='ocrx_word' id='word_1_12' title='bbox 388 2261 506 2331; x_wconf 71' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 527 2261 635 2330; x_wconf 76' lang='grc' dir='ltr'><strong>ΑΝΝο</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 655 2261 911 2350; x_wconf 71' lang='lat' dir='ltr'>Mncccffl.)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1258 4492">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1258 4492">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1258 4492; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1258 4492; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
